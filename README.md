@@ -17,8 +17,6 @@ The goal was to create an interactive webpage that responds to user inputs and v
 - data.js (JavaScript UFO file)
 
 
-***such as function expressions and callbacks
-
 ## Results
 
 The intearctive webpage allows the user to search multiple categories. The user can set multiple filters to search for for UFO sightings based on the following criteria:
@@ -29,12 +27,31 @@ The intearctive webpage allows the user to search multiple categories. The user 
 - Country
 - Shape
 
-Additionally, codes were written to create the search parameter organized as list elements. Code d3.selectAll().on() code was also added to select the changed element and retrieve the changed property. 
 
-### Fig.1 
+The final product shows a dark page with white font. It is a clean and visually appealing page where each element is well uniformed with  the text.
 
-#### Development Tool
+### Fig.1
+![web](https://github.com/je8778/UFOs/blob/main/PNGs/web_pic.png)
+
+
+Code d3.selectAll().on() was added to select the changed element and retrieve the changed property. D3.js can "listen" for events that occur on webpages, such as
+button clicks, mouse events, keyboard, text composition, forms, etc.
+
+### Fig.2
+![function](https://github.com/je8778/UFOs/blob/main/PNGs/function.png)
+
+
+This image illustrates a functional table with the ability to to filter specific information using the Dev tool. When activated, it reacts to user input.
+
+### Fig.3
 ![dev_tool](https://github.com/je8778/UFOs/blob/main/PNGs/dev_tool.png)
+
+
+The following image shows the code from the index.html file. This code creates the search parameters organized as list elements. Each list has HTML components: a label and an input. The label is used as a promt to encourage users to input a date, city, state, country, or shape. The type="text" indicates that the code will look for text to be input. The placeholder is an example of what to search for (e.g., US, Fresno). The id=" " is what JavaScript code will look for when the user enters the desired input and the function is executed.
+
+### Fig.3
+![search_code](https://github.com/je8778/UFOs/blob/main/PNGs/search_code.png
+
 
 
 ## Summary
