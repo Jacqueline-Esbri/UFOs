@@ -49,9 +49,8 @@ This image illustrates a functional table with the ability to to filter specific
 
 The following image shows the code from the index.html file. This code creates the search parameters organized as list elements. Each list has HTML components: a label and an input. The label is used as a promt to encourage users to input a date, city, state, country, or shape. The type="text" indicates that the code will look for text to be input. The placeholder is an example of what to search for (e.g., US, Fresno). The id=" " is what JavaScript code will look for when the user enters the desired input and the function is executed.
 
-### Fig.3
-![search_code](https://github.com/je8778/UFOs/blob/main/PNGs/search_code.png
-
+### Fig.4
+![search_code](https://github.com/je8778/UFOs/blob/main/PNGs/search_code.png)
 
 
 ## Summary
