@@ -47,13 +47,13 @@ The following image illustrates a functional table with the ability to to filter
 ![dev_tool](https://github.com/je8778/UFOs/blob/main/PNGs/dev_tool.png)
 
 
-The following image shows the code from the index.html file. This code creates the search parameters organized as list elements. Each list has HTML components: a label and an input. The label is used as a prompt to encourage users to input a date, city, state, country, or shape. The type="text" indicates that the code will look for text to be input. The placeholder is an example of what to search for (e.g., US, Fresno). The id=" " is what JavaScript code will look for when the user enters the desired input and the function is executed.
+The following image shows the code from the index.html file. This code creates the search parameters organized as list elements. Each list has HTML components: a label and an input. The label is used as a prompt to encourage users to input a date, city, state, country, or shape. The type="text" indicates that the code will look for text to be input. The placeholder is an example of what to search for (e.g., US, Fresno). The id=" " is what JavaScript code will look for when the user enters the desired input when the function is executed.
 
 ### Fig.4
 ![search_code](https://github.com/je8778/UFOs/blob/main/PNGs/search_code.png)
 
 
-The following image illustrates the order (order matters in this line of code) of the multiple script links to the webpage. The files will be executed based on the order they are linked. if a specific order was not followed, the app may try to build the table before loading the data and generates an error.
+The following image illustrates the order (order matters in this line of code) of the multiple script links to the webpage. The files will be executed based on the order they are linked. If a specific order was not followed, the app may try to build the table before loading the data and generate an error.
 ### Fig.5
 ![script.PNG](PNGs/script.png)
 
@@ -65,7 +65,7 @@ The webpage created included a dynamic table based on UFO sightings. It will ena
 
 One drawback on this webpage is not having a search bar that allows the user to see more references in order to validate the sittings. The information in the data.js was limited to comments from selected few individuals versus having a greater sample of individuals validate each claim. 
 
-To further improve this webpage, I would recommend having additional data stating how many individuals were present at each event. Further, additional data should be added when new cases are reported. My second recommendation would be adding an additional filter that reflects on updated information from data the dataset.
+To further improve this webpage, I would recommend having additional data stating how many individuals were present at each event. Further, additional data should be added when new cases are reported. Another recommendation would be adding an additional filter that reflects on updated information from data the dataset.
 
 
 ### Deployment Link
