@@ -41,7 +41,7 @@ The following image illustrates how code d3.selectAll().on() was added to select
 ![function](https://github.com/je8778/UFOs/blob/main/PNGs/function.png)
 
 
-The following image illustrates a functional table with the ability to to filter specific information using the Dev tool. When activated, it reacts to user input.
+The following image illustrates a functional table with the ability to to filter specific information using the Dev tool. When activated, it reacts to user input. When the user enters the search criteria, the JavaScript code stores the values in the textbox in a JS object. Multiple filters can be entered simultaneously to enable users refine their search.
 
 ### Fig.3
 ![dev_tool](https://github.com/je8778/UFOs/blob/main/PNGs/dev_tool.png)
@@ -56,9 +56,16 @@ The following image shows the code from the index.html file. This code creates t
 The following image illustrates the order (order matters in this line of code) of the multiple script links to the webpage. The files will be executed based on the order they are linked. if a specific order was not followed, the app may try to build the table before loading the data and generates an error.
 ### Fig.5
 ![script.PNG](PNGs/script.png)
+
+
+
 ## Summary
 
 The webpage created included a dynamic table based on UFO sightings. It will enable users to search and filter the data for specific values. The webpage demonstrates the power of inserting JavaScript into an HTML file along with utilizing CSS and D3.js. 
+
+One drawback on this webpage is not having a search bar that allows the user to see more references in order to validate the sittings. The information in the data.js was limited to comments from selected few individuals versus having a greater sample of individuals validate each claim. 
+
+To further improve this webpage, I would recommend having additional data stating how many individuals were present at each event. Further, additional data should be added when new cases are reported. My second recommendation would be adding an additional filter that reflects on updated information from data the dataset.
 
 
 ### Deployment Link
