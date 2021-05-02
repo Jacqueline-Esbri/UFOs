@@ -37,18 +37,13 @@ The final product shows a dark page with white font. It is a clean and visually 
 
 
 
-
-
-Code d3.selectAll().on() was added to select the changed element and retrieve the changed property. D3.js can "listen" for events that occur on webpages, such as
-button clicks, mouse events, keyboard, text composition, forms, etc.
+The following image illustrates how code d3.selectAll().on() was added to select the changed element and retrieve the changed property. D3.js can "listen" for events that occur on webpages, such as button clicks, mouse events, keyboard, text composition, forms, etc.
 
 ### Fig.2
 ![function](https://github.com/je8778/UFOs/blob/main/PNGs/function.png)
 
 
-
-
-This image illustrates a functional table with the ability to to filter specific information using the Dev tool. When activated, it reacts to user input.
+The following image illustrates a functional table with the ability to to filter specific information using the Dev tool. When activated, it reacts to user input.
 
 ### Fig.3
 ![dev_tool](https://github.com/je8778/UFOs/blob/main/PNGs/dev_tool.png)
