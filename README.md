@@ -1,14 +1,47 @@
 # UFOs
 
+
 ## Overview of Project
 
+The purpose of this analysis was to gain hands-on experience with JavaScript basics, and its components and objects to build webpages. JavaScript is a front end development language that adds extra functionality and customazition to enhance user experience. To gain a greater understanding of JavaScript, we looked into its technical aspects and application to the field of data analytics and visualization.
+
+The goal was to create an interactive webpage that responds to user inputs and visually adjust to reflect that interaction. A dataset file, stored in a JavaScript array, containing a sample set of UFO sightings, its locations, and types was provided to complete the task.
 
 
+## Resources
+
+- Basic HTML
+- Bootstrap
+- CSS
+- JavaScript
+- data.js (JavaScript UFO file)
+
+
+***such as function expressions and callbacks
 
 ## Results
 
+The intearctive webpage allows the user to search multiple categories. The user can set multiple filters to search for for UFO sightings based on the following criteria:
 
+- Date
+- City
+- State
+- Country
+- Shape
 
+Additionally, codes were written to create the search parameter organized as list elements. Code d3.selectAll().on() code was also added to select the changed element and retrieve the changed property. 
+
+### Fig.1 
+
+#### Development Tool
+![dev_tool](https://github.com/je8778/UFOs/blob/main/PNGs/dev_tool.png)
 
 
 ## Summary
+
+The webpage created included a dynamic table based on UFO sightings. It will enable users to search and filter the data for specific values. The webpage demontrates the power of inserting JavaScript into an HTML file along with utilizing CSS and D3.js. 
+
+
+### Deployment Link
+
+- https://je8778.github.io
