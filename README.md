@@ -42,7 +42,7 @@ This image illustrates how code d3.selectAll().on() was added to select the chan
 
 
 ### Fig.3
-This image illustrates a functional table with the ability to to filter specific information using the Dev tool. When activated, it reacts to user input. When the user enters the search criteria, the JavaScript code stores the values in the textbox in a JS object. Multiple filters can be entered simultaneously to enable users refine their search.
+This image illustrates a functional table with the ability to filter specific information using the Dev tool. When activated, it reacts to user input. When the user enters the search criteria, the JavaScript code stores the values in the textbox in a JS object. Multiple filters can be entered simultaneously to enable users refine their search.
 
 ![dev_tool](https://github.com/je8778/UFOs/blob/main/PNGs/dev_tool.png)
 
@@ -71,4 +71,4 @@ To further improve this webpage, I would recommend having additional data statin
 
 ### Deployment Link
 
-- https://je8778.github.io
+- https://jacqueline-esbri.github.io/UFOs/
