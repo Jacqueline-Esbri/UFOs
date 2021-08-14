@@ -1,5 +1,5 @@
 # UFOs
-
+![mod11.png](PNGs/mod11.png)
 
 ## Overview of Project
 
@@ -64,9 +64,9 @@ This image illustrates the order (order matters in this line of code) of the mul
 
 The webpage created included a dynamic table based on UFO sightings. It will enable users to search and filter the data for specific values. The webpage demonstrates the power of inserting JavaScript into an HTML file along with utilizing CSS and D3.js. 
 
-One drawback on this webpage is not having a search bar that allows the user to see more references in order to validate the sittings. The information in the data.js was limited to comments from selected few individuals versus having a greater sample of individuals validate each claim. 
+One drawback on this webpage is not having a search bar that allows the user to see more references in order to validate the sightings. The information in the data.js was limited to comments from a selected few individuals versus having a greater sample to validate each claim. 
 
-To further improve this webpage, I would recommend having additional data stating how many individuals were present at each event. Further, additional data should be added when new cases are reported. Another recommendation would be adding an additional filter that reflects on updated information from data the dataset.
+To further improve this webpage, I would recommend having additional data stating how many individuals were present at each event. Further, additional data should be added when new cases are reported. Another recommendation would be adding an additional filter that reflects on updated information from the dataset.
 
 
 ### Deployment Link
